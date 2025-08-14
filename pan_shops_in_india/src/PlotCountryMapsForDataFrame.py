@@ -9,8 +9,8 @@ import time
 import folium
 
 # Data Ingestion
-pan_shops_path = r"D:\Career-Related\Trainings\ETLHive-Training-Content\Python\Python-ETL-Workspace\pan_shops_in_india\pan_shops.csv"
-pan_shop_sales_path = r"D:\Career-Related\Trainings\ETLHive-Training-Content\Python\Python-ETL-Workspace\pan_shops_in_india\pan_shop_sales.csv"
+pan_shops_path = r"D:\Career-Related\Trainings\ETLHive-Training-Content\Python\Python-ETL-Workspace\pan_shops_in_india\data\pan_shops.csv"
+pan_shop_sales_path = r"D:\Career-Related\Trainings\ETLHive-Training-Content\Python\Python-ETL-Workspace\pan_shops_in_india\data\pan_shop_sales.csv"
 pan_shops_df = pd.read_csv(pan_shops_path, na_values=["", "NA"], keep_default_na=False)
 pan_shop_sales_df = pd.read_csv(pan_shop_sales_path, na_values=["", "NA"], keep_default_na=False)
 pan_shops_df.name = "pan_shops"; pan_shop_sales_df.name="pan_shop_sales"

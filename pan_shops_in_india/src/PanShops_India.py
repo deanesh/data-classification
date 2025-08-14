@@ -50,7 +50,7 @@ def generate_timings():
 shop_names = []
 pan_shops_path = \
     (f'D:\Career-Related\Trainings\ETLHive-Training-Content\Python\Python-ETL-Workspace'
-     '\pan_shops_in_india\pan_shops.csv')
+     '\pan_shops_in_india\data\pan_shops.csv')
 with open(pan_shops_path, 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
     writer.writerow(['Name', 'Size', 'Timings', 'Owner', 'Rent', 'Location', 'City', 'State'])
@@ -68,7 +68,7 @@ with open(pan_shops_path, 'w', newline='', encoding='utf-8') as f:
         shop_names.append(name)
 
 # ----- Generate pan_shop_sales.csv -----
-pan_shop_sales_path = 'D:\Career-Related\Trainings\ETLHive-Training-Content\Python\Python-ETL-Workspace\pan_shops_in_india\pan_shop_sales.csv'
+pan_shop_sales_path = 'D:\Career-Related\Trainings\ETLHive-Training-Content\Python\Python-ETL-Workspace\pan_shops_in_india\data\pan_shop_sales.csv'
 with open(pan_shop_sales_path, 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
     writer.writerow([

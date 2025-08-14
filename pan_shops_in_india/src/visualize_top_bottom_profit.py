@@ -7,7 +7,7 @@ import webbrowser
 # ------------------------------
 # Load and Merge Shop + Sales Data
 # ------------------------------
-path = r"D:\Career-Related\Trainings\ETLHive-Training-Content\Python\Python-ETL-Workspace\pan_shops_in_india"
+path = r"D:\Career-Related\Trainings\ETLHive-Training-Content\Python\Python-ETL-Workspace\pan_shops_in_india\data"
 shops_path = path+r"/pan_shops.csv"
 sales_path = path+r"/pan_shop_sales.csv"
 
