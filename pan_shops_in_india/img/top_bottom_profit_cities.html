@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_4a631302271edf68ef6013db6bf009db {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_4a631302271edf68ef6013db6bf009db" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_4a631302271edf68ef6013db6bf009db = L.map(
+                "map_4a631302271edf68ef6013db6bf009db",
+                {
+                    center: [20.222942933333332, 79.21550624166666],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_90164e90f41e393aae5c0a85564b733b = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_90164e90f41e393aae5c0a85564b733b.addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+            var circle_marker_43aaa453f85f95889e1c975c31cca03e = L.circleMarker(
+                [28.6430858, 77.2192671],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_c6ceb9658ad33f0b08f5ef2a9aa89cad = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3cd0b6d74b741b30d7316816f55655e2 = $(`<div id="html_3cd0b6d74b741b30d7316816f55655e2" style="width: 100.0%; height: 100.0%;">New Delhi, Delhi<br>Profit: ₹263578.29</div>`)[0];
+                popup_c6ceb9658ad33f0b08f5ef2a9aa89cad.setContent(html_3cd0b6d74b741b30d7316816f55655e2);
+            
+        
+
+        circle_marker_43aaa453f85f95889e1c975c31cca03e.bindPopup(popup_c6ceb9658ad33f0b08f5ef2a9aa89cad)
+        ;
+
+        
+    
+    
+            var circle_marker_1ed64108a84977d2afa3ab86400aa8fd = L.circleMarker(
+                [12.9767936, 77.590082],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_21eadb02692e3d0d7731b0fb844f036a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_68afdf736f9929fea1ea00203e50b135 = $(`<div id="html_68afdf736f9929fea1ea00203e50b135" style="width: 100.0%; height: 100.0%;">Bengaluru, Karnataka<br>Profit: ₹156031.19</div>`)[0];
+                popup_21eadb02692e3d0d7731b0fb844f036a.setContent(html_68afdf736f9929fea1ea00203e50b135);
+            
+        
+
+        circle_marker_1ed64108a84977d2afa3ab86400aa8fd.bindPopup(popup_21eadb02692e3d0d7731b0fb844f036a)
+        ;
+
+        
+    
+    
+            var circle_marker_a1fd5e43f9d3864ad751cfd3fa8e1316 = L.circleMarker(
+                [19.054999, 72.8692035],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_84ec1dd850366fa5fef6cfcd5a06a94b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7f6448cb8dc4ac016794eb378162bee1 = $(`<div id="html_7f6448cb8dc4ac016794eb378162bee1" style="width: 100.0%; height: 100.0%;">Mumbai, Maharashtra<br>Profit: ₹140781.16</div>`)[0];
+                popup_84ec1dd850366fa5fef6cfcd5a06a94b.setContent(html_7f6448cb8dc4ac016794eb378162bee1);
+            
+        
+
+        circle_marker_a1fd5e43f9d3864ad751cfd3fa8e1316.bindPopup(popup_84ec1dd850366fa5fef6cfcd5a06a94b)
+        ;
+
+        
+    
+    
+            var circle_marker_4f9625e47043b0add6f881ba0eb25d7d = L.circleMarker(
+                [13.0836939, 80.270186],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_e9ac2482614bebc910b4ee585a4b30a2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_50a6f815aaf08898e73153f7d197b736 = $(`<div id="html_50a6f815aaf08898e73153f7d197b736" style="width: 100.0%; height: 100.0%;">Chennai, Tamil Nadu<br>Profit: ₹146340.74</div>`)[0];
+                popup_e9ac2482614bebc910b4ee585a4b30a2.setContent(html_50a6f815aaf08898e73153f7d197b736);
+            
+        
+
+        circle_marker_4f9625e47043b0add6f881ba0eb25d7d.bindPopup(popup_e9ac2482614bebc910b4ee585a4b30a2)
+        ;
+
+        
+    
+    
+            var circle_marker_c7e11086e5ad0047761743edaa408104 = L.circleMarker(
+                [26.8381, 80.9346001],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_cb00a364be877deb3be0d8ea30ad2081 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_389c9bd9dbac6c9439425dafa64b9d43 = $(`<div id="html_389c9bd9dbac6c9439425dafa64b9d43" style="width: 100.0%; height: 100.0%;">Lucknow, Uttar Pradesh<br>Profit: ₹155415.8</div>`)[0];
+                popup_cb00a364be877deb3be0d8ea30ad2081.setContent(html_389c9bd9dbac6c9439425dafa64b9d43);
+            
+        
+
+        circle_marker_c7e11086e5ad0047761743edaa408104.bindPopup(popup_cb00a364be877deb3be0d8ea30ad2081)
+        ;
+
+        
+    
+    
+            var circle_marker_ac48dae7c19d6df4c91abdcfae4d5d21 = L.circleMarker(
+                [22.5726459, 88.3638953],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_a5a770cac90fe3782fbefbee00851ee7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ed61e940fb1c520eadfe29de4a3d234a = $(`<div id="html_ed61e940fb1c520eadfe29de4a3d234a" style="width: 100.0%; height: 100.0%;">Kolkata, West Bengal<br>Profit: ₹132598.57</div>`)[0];
+                popup_a5a770cac90fe3782fbefbee00851ee7.setContent(html_ed61e940fb1c520eadfe29de4a3d234a);
+            
+        
+
+        circle_marker_ac48dae7c19d6df4c91abdcfae4d5d21.bindPopup(popup_a5a770cac90fe3782fbefbee00851ee7)
+        ;
+
+        
+    
+    
+            var circle_marker_02e04cf52ef34ee1777a1671dd477c91 = L.circleMarker(
+                [28.6430858, 77.2192671],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_ec1bf3e0c35127af8961861625c5256e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9261b15254acd3426d4780f4c00dbadc = $(`<div id="html_9261b15254acd3426d4780f4c00dbadc" style="width: 100.0%; height: 100.0%;">New Delhi, Delhi<br>Profit: ₹263578.29</div>`)[0];
+                popup_ec1bf3e0c35127af8961861625c5256e.setContent(html_9261b15254acd3426d4780f4c00dbadc);
+            
+        
+
+        circle_marker_02e04cf52ef34ee1777a1671dd477c91.bindPopup(popup_ec1bf3e0c35127af8961861625c5256e)
+        ;
+
+        
+    
+    
+            var circle_marker_85956c5bb13c8782fa7fde0e1cbf225a = L.circleMarker(
+                [12.3051828, 76.6553609],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_ee0922cd9e3a130ff923a6976a0c75ce = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_347910c51df0c16b2cc82f436fa2d892 = $(`<div id="html_347910c51df0c16b2cc82f436fa2d892" style="width: 100.0%; height: 100.0%;">Mysore, Karnataka<br>Profit: ₹114739.89</div>`)[0];
+                popup_ee0922cd9e3a130ff923a6976a0c75ce.setContent(html_347910c51df0c16b2cc82f436fa2d892);
+            
+        
+
+        circle_marker_85956c5bb13c8782fa7fde0e1cbf225a.bindPopup(popup_ee0922cd9e3a130ff923a6976a0c75ce)
+        ;
+
+        
+    
+    
+            var circle_marker_34c753a9f8549abe5d40e974c1af0bf0 = L.circleMarker(
+                [18.5213738, 73.8545071],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_82b94fd1465f929a0f204c4752ae4eac = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b48eb26318e5b7f20db722e2cf046c71 = $(`<div id="html_b48eb26318e5b7f20db722e2cf046c71" style="width: 100.0%; height: 100.0%;">Pune, Maharashtra<br>Profit: ₹116611.95</div>`)[0];
+                popup_82b94fd1465f929a0f204c4752ae4eac.setContent(html_b48eb26318e5b7f20db722e2cf046c71);
+            
+        
+
+        circle_marker_34c753a9f8549abe5d40e974c1af0bf0.bindPopup(popup_82b94fd1465f929a0f204c4752ae4eac)
+        ;
+
+        
+    
+    
+            var circle_marker_eec7900a1e1c726c1abc9afc94773cc9 = L.circleMarker(
+                [11.0018115, 76.9628425],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_1e63cfdf7a88d212446cf9f6c87a9b2c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_78b5a5b43dc23ffb61ee076a5d403408 = $(`<div id="html_78b5a5b43dc23ffb61ee076a5d403408" style="width: 100.0%; height: 100.0%;">Coimbatore, Tamil Nadu<br>Profit: ₹141848.23</div>`)[0];
+                popup_1e63cfdf7a88d212446cf9f6c87a9b2c.setContent(html_78b5a5b43dc23ffb61ee076a5d403408);
+            
+        
+
+        circle_marker_eec7900a1e1c726c1abc9afc94773cc9.bindPopup(popup_1e63cfdf7a88d212446cf9f6c87a9b2c)
+        ;
+
+        
+    
+    
+            var circle_marker_6fd021c424e76fbf184fd58103bd3bd1 = L.circleMarker(
+                [26.4609135, 80.3217588],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_940984f0915d4f999f0124817de78f8b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6935558be969d097c25ce7d8dc82be4d = $(`<div id="html_6935558be969d097c25ce7d8dc82be4d" style="width: 100.0%; height: 100.0%;">Kanpur, Uttar Pradesh<br>Profit: ₹97884.83</div>`)[0];
+                popup_940984f0915d4f999f0124817de78f8b.setContent(html_6935558be969d097c25ce7d8dc82be4d);
+            
+        
+
+        circle_marker_6fd021c424e76fbf184fd58103bd3bd1.bindPopup(popup_940984f0915d4f999f0124817de78f8b)
+        ;
+
+        
+    
+    
+            var circle_marker_4a2b7fe86dd83eca7ca9d8399b821f0e = L.circleMarker(
+                [22.5736296, 88.3251045],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_4a631302271edf68ef6013db6bf009db);
+        
+    
+        var popup_fbcfbc05f36a5f71aafd7fc18bf67a92 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fa35df455f20356841bd00a6aa591313 = $(`<div id="html_fa35df455f20356841bd00a6aa591313" style="width: 100.0%; height: 100.0%;">Howrah, West Bengal<br>Profit: ₹98365.72</div>`)[0];
+                popup_fbcfbc05f36a5f71aafd7fc18bf67a92.setContent(html_fa35df455f20356841bd00a6aa591313);
+            
+        
+
+        circle_marker_4a2b7fe86dd83eca7ca9d8399b821f0e.bindPopup(popup_fbcfbc05f36a5f71aafd7fc18bf67a92)
+        ;
+
+        
+    
+</script>
+</html>
