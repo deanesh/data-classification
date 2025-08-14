@@ -1,0 +1,176 @@
+AC_No,Constituency_Name,MLA_Name,Party,District
+1,Ichchapuram,Ashok Bendalam,TDP,Srikakulam
+2,Palasa,Appalaraju Seediri,YSRCP,Srikakulam
+3,Tekkali,Atchannaidu Kinjarapu,TDP,Srikakulam
+4,Pathapatnam,Reddy Shanthi,YSRCP,Srikakulam
+5,Srikakulam,Dharmana Prasada Rao,YSRCP,Srikakulam
+6,Amadalavalasa,Thammineni Seetharam,YSRCP,Srikakulam
+7,Etcherla,Gorle. Kiran Kumar,YSRCP,Srikakulam
+8,Narasannapeta,Dharmana Krishna Das,YSRCP,Srikakulam
+9,Rajam (SC),Kambala Jogulu,YSRCP,Vizianagaram
+10,Palakonda (ST),Viswasarayi Kalavathi,YSRCP,Parvathipuram Manyam
+11,Kurupam,Pushpasreevani . Pamula,YSRCP,Parvathipuram Manyam
+12,Parvathipuram,Alajangi Jogarao,YSRCP,Parvathipuram Manyam
+13,Salur,Peedika. Rajanna Dora,YSRCP,Parvathipuram Manyam
+14,Bobbili,Sambangi Venkatachina Appala Naidu,YSRCP,Vizianagaram
+15,Cheepurupalli,Botcha Satyanarayana,YSRCP,Vizianagaram
+16,Gajapathinagaram,Appalanarasayya Botcha,YSRCP,Vizianagaram
+17,Nellimarla,Appala Naidu Baddukonda,YSRCP,Vizianagaram
+18,Vizianagaram,Veera Bhadra Swamy Kolagatla,YSRCP,Vizianagaram
+19,Srungavarapukota,Kadubandi Srinivasa Rao,YSRCP,Visakhapatnam
+20,Bhimli,Muttamsetti Srinivasarao (Avanthi Srinivas),YSRCP,Visakhapatnam
+21,Visakhapatnam East,Ramakrishna Babu Velagapudi,TDP,Visakhapatnam
+22,Visakhapatnam South,Ganesh Kumar Vasupalli,TDP,Visakhapatnam
+23,Visakhapatnam North,Ganta Srinivasa Rao,TDP,Visakhapatnam
+24,Visakhapatnam West,P G V R Naidu(Gana Babu),TDP,Visakhapatnam
+25,Gajuwaka,Nagireddy Tippala,YSRCP,Visakhapatnam
+26,Chodavaram,Karanam Dharmasri,YSRCP,Anakapalli
+27,V.Madugula,Budi Mutyala Naidu,YSRCP,Anakapalli
+28,Araku valley,Chetti. Palguna,YSRCP,Alluri Sitharama Raju
+29,Paderu,Bhagya Lakshmi Kottagulli,YSRCP,Alluri Sitharama Raju
+30,Anakapalli,Amarnath Gudivada,YSRCP,Anakapalli
+31,Pendurthi,Annamreddy Adeep Raj,YSRCP,Anakapalli
+32,ELAMANCHILI,Uppalapati Venkata Ramanamurthy Raju,YSRCP,Anakapalli
+33,PAYAKARAOPETA,Golla Baburao,YSRCP,Anakapalli
+34,Narsipatnam,Uma Sankara Ganesh Petla,YSRCP,Anakapalli
+35,Tuni,Dadisetti Raja,YSRCP,Kakinada
+36,Prathipadu,Sri Purnachandra Prasad Parvatha,YSRCP,Kakinada
+37,Pithapuram,Dorababu Pendem,YSRCP,Kakinada
+38,Kakinada Rural,Kurasala Kannababu,YSRCP,Kakinada
+39,Peddapuram,Nimmakayala China Rajappa,TDP,Kakinada
+40,Anaparthy,Doctor. Sathi Suryanarayana Reddy,YSRCP,East Godavari
+41,Kakinada City,Dwarampudi Chandra Sekhara Reddy,YSRCP,Kakinada
+42,Ramachandrapuram,Chelluboyina Srinivasa Venugopalakrishna,YSRCP,Konaseema
+43,Mummidivaram,Ponnada Venkata Satish Kumar,YSRCP,Konaseema
+44,Amalapuram,Viswarupu Pinipe,YSRCP,Konaseema
+45,Razole,Rapaka Vara Prasada Rao,JnP,Konaseema
+46,Gannavaram,Kondeti Chitti Babu,YSRCP,Konaseema
+47,Kothapeta,Chirla Jaggireddy,YSRCP,Konaseema
+48,Mandapeta,Jogeswara Rao. V,TDP,Konaseema
+49,Rajanagaram,Jakkampudi Raja,YSRCP,East Godavari
+50,Rajahmundry City,Adireddy Bhavani,TDP,East Godavari
+51,Rajamundry Rural,Gorantla Butchaiah Choudary,TDP,East Godavari
+52,Jaggampeta,Jyothula Chanti Babu,YSRCP,Kakinada
+53,Rampachodavaram,Nagulapalli Dhanalakshmi.,YSRCP,Alluri Sitharama Raju
+54,Kovvur,Taneti Vanita,YSRCP,East Godavari
+55,Nidadavole,G. Srinivas Naidu,YSRCP,East Godavari
+56,Achanta,Cherukuvada Sriranganadha Raju,YSRCP,West Godavari
+57,Palacole,Dr. Nimmala Ramanaidu,TDP,West Godavari
+58,Narasapuram,Mudunuri Prasada Raju,YSRCP,West Godavari
+59,Bhimavaram,Grandhi Srinivas,YSRCP,West Godavari
+60,Undi,Mantena Ramaraju (Kalapudi Rambabu),TDP,West Godavari
+61,TANUKU,Karumuri Venkata Nageswara Rao,YSRCP,West Godavari
+62,Tadepalligudem,Kottu Satyanarayana,YSRCP,West Godavari
+63,Unguturu,Puppala Srinivasarao (Vasubabu),YSRCP,Eluru
+64,Denduluru,Abbaya Chowdary Kothari,YSRCP,Eluru
+65,Eluru,Alla Kali Krishna Srinivas (Alla Nani),YSRCP,Eluru
+66,Gopalapuram,Venkatrao Talari,YSRCP,East Godavari
+67,Polavaram,Tellam Bala Raju,YSRCP,Eluru
+68,Chintalapudi,Vunnamatla Rakada Eliza,YSRCP,Eluru
+69,Tiruvuru,Kokkiligadda Rakshana Nidhi,YSRCP,NTR
+70,Nuzvid,Meka Venkata Pratap Apparao,YSRCP,Eluru
+71,Gannavaram,Vamsi Vallabhaneni,TDP,Konaseema
+72,Gudivada,Kodali Sri Venkateswara Rao (Nani),YSRCP,Krishna
+73,Kaikalur,Dulam Nageswara Rao (Dnr),YSRCP,Eluru
+74,Pedana,Jogi Ramesh,YSRCP,Krishna
+75,Machilipatnam,Perni Venkataramaiah (Nani),YSRCP,Krishna
+76,Avanigadda,Ramesh Babu Simhadri,YSRCP,Krishna
+77,Pamarru,Anil Kumar Kaile,YSRCP,Krishna
+78,Penamaluru,Kolusu Partha Sarathy,YSRCP,Krishna
+79,Vijaywada West,Velam Palli Srinivasa Rao,YSRCP,NTR
+80,Vijayawada central,Malladi Vishnu,YSRCP,NTR
+81,Vijayawada East,Gadde Rama Mohan,TDP,NTR
+82,Mylavaram,Vasantha Venkata Krishna Prasad,YSRCP,NTR
+83,Nandigama,Monditoka Jagan Mohana Rao,YSRCP,NTR
+84,Jaggayyapeta,Udayabhanu Samineni,YSRCP,NTR
+85,Pedakurapadu,Namburu Sankara Rao,YSRCP,Palnadu
+86,Tadikonda (SC),Vundavalli Sridevi,YSRCP,Guntur
+87,Mangalagiri,Alla Rama Krishna Reddy (Rk),YSRCP,Guntur
+88,Ponnur,Kilari Venkata Roshaiah,YSRCP,Guntur
+89,Vemuru (SC),Merugu Nagarjuna,YSRCP,Bapatla
+90,Repalle,Anagani Satya Prasad,TDP,Bapatla
+91,Tenali,Annabathuni Siva Kumar,YSRCP,Guntur
+92,Bapatla,Kona Raghupathi,YSRCP,Bapatla
+93,Prathipadu (SC),Mekathoti Sucharitha,YSRCP,Guntur
+94,Guntur West,Maddali Giridhara Rao,TDP,Guntur
+95,Guntur East,Mohammed Mustafa Shaik,YSRCP,Guntur
+96,Chilakaluripet,Rajini Vidadala,YSRCP,Palnadu
+97,Narasaraopet,Gopireddy Srinivasareddy,YSRCP,Palnadu
+98,Sattenapalli,Ambati Rambabu,YSRCP,Palnadu
+99,Vinukonda,Bolla Brahma Naidu,YSRCP,Palnadu
+100,Gurazala,Kasu Mahesh Reddy,YSRCP,Palnadu
+101,Macherla,Ramakrishnareddy Pinnelli.,YSRCP,Palnadu
+102,Yerragondapalem,Audimulapu Suresh,YSRCP,Prakasam
+103,Darsi,Maddisetty Venugopal,YSRCP,Prakasam
+104,Parchur,Yeluri Samba Sivarao,TDP,Bapatla
+105,Addanki,Gottipati Ravikumar,TDP,Bapatla
+106,Chirala,Karanam Balarama Krishna Murthy,TDP,Bapatla
+107,Santhanuthalapadu,T.J.R. Sudhakar Babu,YSRCP,Prakasam
+108,Ongole,Balineni Srinivasa Reddy (Vasu),YSRCP,Prakasam
+109,Kandukur,Maheedhar Reddy Manugunta,YSRCP,Nellore
+110,Kondapi,Doctor Dola Sree Bala Veeranjaneya Swamy,TDP,Prakasam
+111,Markapuram,Kunduru Nagarjuna Reddy,YSRCP,Prakasam
+112,Giddalur,Anna Rambabu,YSRCP,Prakasam
+113,Kanigiri,Burra Madhu Sudhan Yadav,YSRCP,Prakasam
+114,Kavali,Ramireddy Pratap Kumar Reddy,YSRCP,Nellore
+115,Atmakur,Mekapati Goutham Reddy,YSRCP,Nellore
+116,Kovur,Nallapareddy Prasanna Kumar Reddy,YSRCP,Nellore
+117,Nellore City,Anil Kumar Poluboina,YSRCP,Nellore
+118,Nellore Rural,Kotamreddy Sridhar Reddy,YSRCP,Nellore
+119,Sarvepalli,Kakani Govardhan Reddy,YSRCP,Tirupati
+120,Gudur,Velagapalli Varaprasad Rao,YSRCP,Tirupati
+121,Sullurpeta,Kiliveti Sanjeevaiah,YSRCP,Tirupati
+122,Venkatagiri,Anam Ramanarayana Reddy,YSRCP,Tirupati
+123,Udayagiri,Mekapati Chandra Sekhar Reddy,YSRCP,Nellore
+124,Badvel,Dr. G. Venkata Subbaiah,YSRCP,Kadapa
+125,Rajampet,Meda Venkata Mallikarjuna Reddy,YSRCP,Annamayya
+126,Kadapa,Amzath Basha Shaik Bepari,YSRCP,Kadapa
+127,Kodur,Koramutla Sreenivasulu,YSRCP,Annamayya
+128,Rayachoti,Gadikota. Srikanth Reddy.,YSRCP,Annamayya
+129,Pulivendla,Y S Jagan Mohan Reddy,YSRCP,Kadapa
+130,Kamalapuram,Pochimareddy Ravindranath Reddy,YSRCP,Kadapa
+131,Jammalamadugu,Mule Sudheer Reddy,YSRCP,Kadapa
+132,Proddatur,Rachamallu Siva Prasad Reddy,YSRCP,Kadapa
+133,Mydukur,Raghurami Reddy Settipally,YSRCP,Kadapa
+134,Allagadda,Gangula Brijendra Reddy (Nani),YSRCP,Nandyal
+135,Srisailam,Silpa Chakrapani Reddy,YSRCP,Nandyal
+136,Nandikotkur,Thoguru Arthur,YSRCP,Nandyal
+137,Kurnool,Abdul Hafeez Khan,YSRCP,Kurnool
+138,Panyam,Katasani Rambhupal Reddy,YSRCP,Nandyal
+139,Nandyal,Shilpa Ravi Chandra Kishore Reddy,YSRCP,Nandyal
+140,Banaganapalle,Katasani Rami Reddy,YSRCP,Nandyal
+141,Dhone,Buggana Raja Reddy,YSRCP,Nandyal
+142,Pattikonda,Kangati Sreedevi,YSRCP,Kurnool
+143,Kodumur,Jaradoddi Sudhakar,YSRCP,Kurnool
+144,Yemmiganur,K Chennakesava Reddy,YSRCP,Kurnool
+145,Mantralayam,Y. Balanagi Reddy,YSRCP,Kurnool
+146,Adoni,Y. Sai Prasad Reddy,YSRCP,Kurnool
+147,Alur,Gummanur Jayaram,YSRCP,Kurnool
+148,Rayadurg,Kapu Ramachandra Reddy,YSRCP,Anantapuramu
+149,Uravakonda,Payyavula Keshav,TDP,Anantapuramu
+150,Guntakal,Y. Venkatarama Reddy,YSRCP,Anantapuramu
+151,Tadipatri,K. Pedda Reddy,YSRCP,Anantapuramu
+152,Singanamala,Padmavathy Jonnalagadda,YSRCP,Anantapuramu
+153,Anantapur urban,Anantha Venkatarami Reddy,YSRCP,Anantapuramu
+154,KALYANDURG,K.V. Usha Sricharan,YSRCP,Anantapuramu
+155,Raptadu,Thopudurthi Prakash Reddy,YSRCP,Anantapuramu
+156,Madakasira,M Thippeswamy,YSRCP,Sri Sathya Sai
+157,Hindupur,Nandamuri Balakrishna,TDP,Sri Sathya Sai
+158,Penukonda,Malagundla Sankaranarayana,YSRCP,Sri Sathya Sai
+159,Puttaparthi,Duddukunta Sreedhar Reddy,YSRCP,Sri Sathya Sai
+160,Dharmavaram,Kethireddy Venkatarami Reddy,YSRCP,Sri Sathya Sai
+161,Kadiri,P.V. Sidda Reddy,YSRCP,Sri Sathya Sai
+162,Thamballapalle,Peddireddy Dwarakanatha Reddy,YSRCP,Annamayya
+163,Pileru,Chinthala Ramachandra Reddy,YSRCP,Annamayya
+164,Madanapalle,M. Nawaz Basha,YSRCP,Annamayya
+165,Punganur,Peddireddi Ramachandra Reddy,YSRCP,Chittoor
+166,Chandragiri,Dr.Chevireddy Bhaskar Reddy,YSRCP,Chittoor
+167,Tirupati,Bhumana Karunakar Reddy,YSRCP,Tirupati
+168,Srikalahasti,Biyyapu Madhusudhan Reddy,YSRCP,Tirupati
+169,Satyavedu,Adimulam Koneti,YSRCP,Tirupati
+170,Nagari,R.K. Roja,YSRCP,Chittoor
+171,Gangadhara Nellore,K. Narayana Swamy,YSRCP,Chittoor
+172,Chittoor,Aranii Srenevasulu (Jangalapalli),YSRCP,Chittoor
+173,Puthalapattu,M. Babu,YSRCP,Chittoor
+174,Palamaner,N Venkate Gowda,YSRCP,Chittoor
+175,Kuppam,Nara Chandra Babu Naidu,TDP,Chittoor
