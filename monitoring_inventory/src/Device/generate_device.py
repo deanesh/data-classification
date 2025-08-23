@@ -7,6 +7,7 @@ from faker import Faker
 fake = Faker()
 
 def generate_devices(assets, dev_classes, num=20):
+    print("Generating Devices...")
     data = [
         {
             "device_id": i,
